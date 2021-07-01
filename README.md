@@ -8,12 +8,7 @@ _I work as a full stack and mobile developer_
 #### I'm interested
 ![Node](https://img.shields.io/badge/-Node.Js-383838?style=for-the-badge&logo=Node.Js) ![Next.Js](https://img.shields.io/badge/-Next.Js-383838?style=for-the-badge&logo=Next.Js) ![TypeScript](https://img.shields.io/badge/-TypeScript-383838?style=for-the-badge&logo=TypeScript)
 
-### *_May the Force be with you_*  
-  
-  
-  
-  
-_Português.._
+### *_May the Force be with you_*        
 
 ### Olá, eu sou Guilherme Pellegrini.
 _Eu trabalho como FullStack e desenvolvedor mobile_
