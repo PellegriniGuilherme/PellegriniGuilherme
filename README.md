@@ -10,9 +10,10 @@ _I work as a full stack and mobile developer_
 
 ### *_May the Force be with you_*
 
+..
+..
 
-
-_Português_
+_Português.._
 
 ### Olá, eu sou Guilherme Pellegrini.
 _Eu trabalho como FullStack e desenvolvedor mobile_
